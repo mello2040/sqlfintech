@@ -157,7 +157,7 @@ VALUES (sequencia_investimentos.nextval, 'Renda Fixa',
 
 
 UPDATE investimento
-SET tipo_investimneto = 'CDB',
+SET tipo_investimento = 'CDB',
  nm_aplicacao = 'Fundo de A??es',
  nm_banco = 'Bradesco',
  vl_investimento = 8000.00,
